@@ -1,11 +1,11 @@
-# synchronised-swimming-scratch2
+# synchronised-swimmming
 
-![synchronised-swimming-scratch2](banner.png)
+![synchronised-swimmming](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2)
+Find the project online at [projects.raspberrypi.org/en/projects/synchronised-swimmming](https://projects.raspberrypi.org/en/projects/synchronised-swimmming)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/synchronised-swimming-scratch2/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/synchronised-swimming-scratch2/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/synchronised-swimmming/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

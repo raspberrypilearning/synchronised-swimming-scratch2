@@ -1,48 +1,57 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones. 
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+
+Use the arrow keys to move the swimmers.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
+  <img src="images/swim-final.png">
 </div>
+
+Tip: You can click on the red stop button to stop the music playing!
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![complete project](images/swim-final.png)
+
 --- /print-only ---
 
 --- collapse ---
+
 ---
 title: What you will need
 ---
+
 ### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
 
 --- /collapse ---
 
 --- collapse ---
+
 ---
 title: What you will learn
 ---
-
-+ Two or three learning objectives
-+ ...should go here
+- Use clones to create many sprites all the same
+- Use key pressed events to move sprites 
 
 --- /collapse ---
 
@@ -51,8 +60,12 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+--- no-print ---
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/synchronised-swimming-scratch2-get){:target="_blank"}.
 
 --- /collapse ---
